@@ -61,7 +61,7 @@ const routes = [
         meta: { title: 'sidebar.ratings' }
     },
     {
-        path: '/',
+        path: '/dashboard/restaurant/summary',
         name: 'root-redirect',
         component: RoleRedirect
     }
